@@ -9,12 +9,15 @@ Before building the model, extensive data visualization was performed to underst
 ![Stock Price Over Time](Images/Stock_prices_over_time.png)
 # Data Preprocessing
 Data preprocessing involved cleaning the dataset by handling missing values, normalizing the data, and creating new features as needed. The cleaned dataset was then prepared for model training.
-# Model Building
+
+## Model Building
+
 A sequential LSTM model was constructed, which included:
 
-Input Layer: To receive the processed time-series data.
-LSTM Layers: For capturing the temporal dependencies in the stock prices.
-Dense Layer: To produce the final output.
+- **Input Layer**: Receives the processed time-series data.
+- **LSTM Layers**: Captures the temporal dependencies in the stock prices.
+- **Dense Layer**: Produces the final output.
+
 The model was trained using the cleaned dataset, and various hyperparameters were tuned to optimize performance.
 
 # Model Loading
