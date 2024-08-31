@@ -6,7 +6,7 @@ This project aims to develop a predictive model that forecasts stock prices usin
 The dataset was sourced from the NEPSE website, specifically focusing on the Agriculture Development Bank. The data spans from 08/13/2019 to 08/13/2024 and includes columns such as Symbol, Date, Open, High, Low, Close, Percent Change, and Volume.
 # Data Visualization
 Before building the model, extensive data visualization was performed to understand the underlying patterns and trends in the stock prices. This step helped in identifying key features that contribute to the prediction.
-
+![Stock Price Trends](Images/Stock prices over time .png)
 # Data Preprocessing
 Data preprocessing involved cleaning the dataset by handling missing values, normalizing the data, and creating new features as needed. The cleaned dataset was then prepared for model training.
 # Model Building
