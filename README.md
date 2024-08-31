@@ -26,7 +26,7 @@ The model's performance was evaluated using various metrics such as RMSE. The re
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone https://github.com/Niru477/stock-price-prediction.git
 2. Install the required dependencies:
 pip install -r requirements.txt
 3. Run the model:
