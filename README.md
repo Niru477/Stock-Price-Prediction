@@ -22,6 +22,7 @@ The trained model was also loaded to make predictions on new data. This allows f
 
 # Results
 The model's performance was evaluated using various metrics such as RMSE. The results demonstrate the model's ability to accurately predict future stock prices, making it a valuable tool for quantitative trading.
+![Stock Price Prediction](Images/output.png)
 # How to Run
 To run this project locally, follow these steps:
 
