@@ -34,6 +34,6 @@ git clone https://github.com/Niru477/stock-price-prediction.git
 2. Install the required dependencies:
 pip install -r requirements.txt
 3. Run the model:
-python main.py
+python project.ipynb
 # Conclusion
 This project successfully demonstrates the use of an LSTM model for stock price prediction. The model shows promising results and can be further enhanced with more data and feature engineering.
